@@ -128,8 +128,8 @@ Page({
       url: 'https://route.showapi.com/872-1',
       data:{
         "star":this.data.star,
-        "showapi_appid": '863945', //这里需要改成自己的appid
-        "showapi_sign": 'e2a93da2650540fc87f1e36a985873ee',  //这里需要改成自己的应用的密钥secret
+        "showapi_appid": 'xxxxxxxxxxx', //这里需要改成自己的appid
+        "showapi_sign": 'xxxxxxxxxxxxxxx',  //这里需要改成自己的应用的密钥secret
         "needTomorrow":"1",
         "needWeek":"1",
         "needMonth":"0",
