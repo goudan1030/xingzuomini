@@ -1,0 +1,16 @@
+{
+  "name": "xingzuo-master-miniprogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "miniprogram-sm-crypto": "^0.3.7",
+    "showapirequest_nodejs": "^1.0.4"
+  }
+}
