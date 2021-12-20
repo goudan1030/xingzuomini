@@ -8,6 +8,11 @@ https://www.minifans.cn/
 
 # 云开发微信星座运势小程序开源版本
 
+注意，开源的是基础版本，目前只有今天运势，无分享和海报功能，如有需要，请联系我
+
+![WechatIMG284](https://user-images.githubusercontent.com/72783438/146712944-3668d298-cfda-4ae6-ad89-086604e42d61.jpeg)
+
+
 # 安装方法
 1.下载到本地后，导入到微信开发者工具中，修改你自己的appid
 
